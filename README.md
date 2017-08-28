@@ -1,6 +1,6 @@
 # Docker Container for Scapy
 
-This Docker container build is based on [Alpine Linux](https://alpinelinux.org/) and runs Scapy
+This Docker container build is based on [Alpine Linux](https://alpinelinux.org/) and runs [Scapy](http://www.secdev.org/projects/scapy/)
 
 # What is Alpine Linux?
 
